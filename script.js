@@ -336,3 +336,27 @@ if(!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
         });
     });
 }
+
+function fun1(){
+    document.getElementById("rc1").innerHTML=`TATA AIA IS BEST`
+  }
+
+  function fun2(){
+    document.getElementById("rc2").innerHTML=`STAR HEALTH IS BEST`
+  }
+
+    function fun3(){
+    document.getElementById("rc3").innerHTML=`TATA AIA IS BEST`
+  }
+
+    function fun4(){
+    document.getElementById("rc4").innerHTML=`TATA AIA IS BEST`
+  }
+
+    function fun5(){
+    document.getElementById("rc5").innerHTML=`PRUDENT IS BEST`
+  }
+
+    function fun6(){
+    document.getElementById("rc6").innerHTML=`AIRTEL PAYMENT BAMK IS BEST`
+  }
